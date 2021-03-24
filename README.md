@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @millerliam
-- 👀 I’m interested in tech!
+- 👀 I’m interested in code!
 - 🌱 I’m currently learning all about cloud computing!
 - 📫 Reach me at linkedin.com/in/liam-miller-183521152/
 
